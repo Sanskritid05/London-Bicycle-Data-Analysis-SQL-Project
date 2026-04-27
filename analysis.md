@@ -25,7 +25,7 @@
 
 ### 2. Question - "Which start stations have the highest number of bike rides?"
 
-![Top Station](output-images/top_station.png)
+![Top Station](output-images/pic2.png)
 
 **INSIGHTS:**
 
@@ -37,7 +37,7 @@
 
 ### 3. Question - "At what hour of the day are bike rides most frequent?"
 
-![Peak Hours](output-images/peak_hours.png)
+![Peak Hours](output-images/pic3.png)
 
 **INSIGHTS:**
 
@@ -49,7 +49,7 @@
 
 ### 4. Question - "Which days of the week have the highest bike usage?"
 
-![Day Usage](output-images/day_usage.png)
+![Day Usage](output-images/pic4.png)
 
 **INSIGHTS:**
 
@@ -63,7 +63,7 @@
 
 ### 5. Question - "How does bike usage differ between weekdays and weekends?"
 
-![Weekday vs Weekend](output-images/weekday_weekend.png)
+![Weekday vs Weekend](output-images/pic5.png)
 
 **INSIGHTS:**
 
@@ -77,7 +77,7 @@
 
 ### 6. Question - "How are bike rides distributed across duration ranges?"
 
-![Duration Distribution](output-images/duration_distribution.png)
+![Duration Distribution](output-images/pic6.png)
 
 **INSIGHTS:**
 
@@ -89,7 +89,7 @@
 
 ### 7. Question - "What are the most popular routes (start to end)?"
 
-![Popular Routes](output-images/popular_routes.png)
+![Popular Routes](output-images/pic7.png)
 
 **INSIGHTS:**
 
@@ -101,7 +101,7 @@
 
 ### 8. Question - "What percentage of rides are short trips (under 10 minutes)?"
 
-![Short Ride Percentage](output-images/short_rides.png)
+![Short Ride Percentage](output-images/pic8.png)
 
 **INSIGHTS:**
 
@@ -113,7 +113,7 @@
 
 ### 9. Question - "How does average ride duration vary across hours of the day?"
 
-![Hourly Duration](output-images/hourly_duration.png)
+![Hourly Duration](output-images/pic9.png)
 
 **INSIGHTS:**
 
@@ -125,7 +125,7 @@
 
 ### 10. Question - "What proportion of rides are round trips?"
 
-![Round Trips](output-images/round_trips.png)
+![Round Trips](output-images/pic10.png)
 
 **INSIGHTS:**
 
@@ -139,7 +139,7 @@
 
 ### 11. Question - "Which stations experience the highest ride inflow (arrivals)?"
 
-![Top Arrivals](output-images/top_arrivals.png)
+![Top Arrivals](output-images/pic11.png)
 
 **INSIGHTS:**
 
@@ -151,7 +151,7 @@
 
 ### 12. Question - "Which stations have the highest average ride duration?"
 
-![Avg Duration Stations](output-images/avg_duration_station.png)
+![Avg Duration Stations](output-images/pic12.png)
 
 **INSIGHTS:**
 
@@ -163,7 +163,7 @@
 
 ### 13. Question - "Which stations show the highest variability in ride duration?"
 
-![Duration Variability](output-images/duration_variability.png)
+![Duration Variability](output-images/pic13.png)
 
 **INSIGHTS:**
 
@@ -177,7 +177,7 @@
 
 ### 14. Question - "Which stations experience peak demand spikes?"
 
-![Demand Spikes](output-images/demand_spikes.png)
+![Demand Spikes](output-images/pic14.png)
 
 **INSIGHTS:**
 
@@ -189,7 +189,7 @@
 
 ### 15. Question - "What is the weekday vs weekend usage split for top stations?"
 
-![Station Split](output-images/station_weekday_weekend.png)
+![Station Split](output-images/pic15.png)
 
 **INSIGHTS:**
 
@@ -201,7 +201,7 @@
 
 ### 16. Question - "Which routes have unusually long average durations?"
 
-![Long Duration Routes](output-images/long_routes.png)
+![Long Duration Routes](output-images/pic16.png)
 
 **INSIGHTS:**
 
