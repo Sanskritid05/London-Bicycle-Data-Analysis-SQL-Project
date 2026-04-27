@@ -1,4 +1,4 @@
-# London Bicycle Data Analysis (BigQuery)
+# London Bike Data Analysis (BigQuery)
 
 ## Project Intention
 
